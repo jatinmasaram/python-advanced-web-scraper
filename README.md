@@ -68,6 +68,5 @@ Containerize with Docker for deployment.
 
 Integrate with a CI/CD pipeline for automated testing & execution.
 
-yaml
-Copy code
+
 
